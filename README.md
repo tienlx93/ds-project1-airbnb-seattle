@@ -25,7 +25,7 @@ TODO
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://example.com).
+The main findings of the code can be found at the post available [here](https://medium.com/@bestoneguy/how-to-create-a-best-listing-on-airbnb-a-study-from-seattle-airbnb-listing-data-9055d4b92be3).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
