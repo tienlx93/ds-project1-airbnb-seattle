@@ -51,12 +51,12 @@ Throughout the project file `Seattle Airbnb analysis.ipynb` it will help to demo
     * Remove the unnessary data
     * Create the statistic tables, correlation matrix, data distribution for better understanding of data
     * For the question 1, we merge the `listings.csv` and `calendar.csv` to see the pricing distribution. It is covered on the Part 2 of the project
-    * For the question 2, we merge the `listings.csv` and `reviews.csv` for the review & descritions of a listing. We applied the words deviding, then count the appearance of each word, to compare the difference between the most attractive listing (based on number of reviews per month) and all listing.
+    * For the question 2, we merge the `listings.csv` and `reviews.csv` for the review & descritions of a listing. We applied the words deviding, then count the appearance of each word, to compare the difference between the most attractive listing (based on number of reviews per month) and all listing. The findings are available on Part 3 of the project.
 
 * Modeling
     * Fit model: After clearing & enrich data, create columns for categorical values, we fit the model into the standard linear regression model. This is done in the 4th part on the notebook.
     * Validate the model: After changing the parameter, we removed some columns that create overfitting data, only focus on most interesting data
-    * After apply the modeling, we can answer Question 3, what aspect affect the most on pricing and popularity
+    * After apply the modeling, we can answer Question 3, what aspect affect the most on pricing and popularity. The result is available on the Part 4 of the notebook.
 
 * Evaluation: The main findings of the project can be found at the post available [here](https://medium.com/@bestoneguy/how-to-create-a-best-listing-on-airbnb-a-study-from-seattle-airbnb-listing-data-9055d4b92be3).
 
